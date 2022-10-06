@@ -62,5 +62,6 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Passwords**       | BitWarden    | https://bitwarden.com/help/cli/      | A powerful, fully-featured tool for accessing and managing your vault. |
 | **RSS/Feeds**       | Russ         | https://github.com/ckampfe/russ      | Russ is a TUI RSS/Atom reader with vim-like controls and a local-first, offline-first focus. |
 | **Stock Ticker**    | Tickrs       | https://github.com/tarkah/tickrs     | Yahoo! Finance source real time market ticker. |
+| **Messaging**       | NChat        | https://github.com/d99kris/nchat     | TUI Telegram client for Linux and macOS|
 | **Web Browser**     | Browsh       | https://github.com/browsh-org/browsh | A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. |
 | **Web Browser**     | Links        | http://links.twibright.com/          | Links is a web browser running in both graphics and text mode. |
