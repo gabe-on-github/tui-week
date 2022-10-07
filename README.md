@@ -63,10 +63,11 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 
 | Category            | Name         | link | Descrption |
 | ------------------- | ------------ | ---- | ---------- |
-| **Passwords**       | BitWarden    | https://bitwarden.com/help/cli/      | A powerful, fully-featured tool for accessing and managing your vault. |
-| **RSS/Feeds**       | Russ         | https://github.com/ckampfe/russ      | Russ is a TUI RSS/Atom reader with vim-like controls and a local-first, offline-first focus. |
-| **Stock Ticker**    | Tickrs       | https://github.com/tarkah/tickrs     | Yahoo! Finance source real time market ticker. |
-| **Messaging**       | NChat        | https://github.com/d99kris/nchat     | TUI Telegram client for Linux and macOS. |
-| **YouTube**         | YTfzf        | https://github.com/pystardust/ytfzf  | Script / TUI that helps you find Youtube or Odysee videos (w/o the API). Opens/downloads them using mpv/youtube-dl. |
-| **Web Browser**     | Browsh       | https://github.com/browsh-org/browsh | A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. |
-| **Web Browser**     | Links        | http://links.twibright.com/          | Links is a web browser running in both graphics and text mode. |
+| **Passwords**       | BitWarden    | https://bitwarden.com/help/cli/             | A powerful, fully-featured tool for accessing and managing your vault. |
+| **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, terminal based password manager |
+| **RSS/Feeds**       | Russ         | https://github.com/ckampfe/russ             | Russ is a TUI RSS/Atom reader with vim-like controls and a local-first, offline-first focus. |
+| **Stock Ticker**    | Tickrs       | https://github.com/tarkah/tickrs            | Yahoo! Finance source real time market ticker. |
+| **Messaging**       | NChat        | https://github.com/d99kris/nchat            | TUI Telegram client for Linux and macOS. |
+| **YouTube**         | YTfzf        | https://github.com/pystardust/ytfzf         | Script / TUI that helps you find Youtube or Odysee videos. Opens/downloads them using mpv/youtube-dl. |
+| **Web Browser**     | Browsh       | https://github.com/browsh-org/browsh        | A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. |
+| **Web Browser**     | Links        | http://links.twibright.com/                 | Links is a web browser running in both graphics and text mode. |
