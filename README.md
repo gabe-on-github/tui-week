@@ -64,7 +64,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | Category            | Name         | link | Descrption |
 | ------------------- | ------------ | ---- | ---------- |
 | **Passwords**       | BitWarden    | https://bitwarden.com/help/cli/             | A powerful, fully-featured tool for accessing and managing your vault. |
-| **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, terminal based password manager |
+| **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, fully fearured, encrypted, terminal based password manager |
 | **RSS/Feeds**       | Russ         | https://github.com/ckampfe/russ             | Russ is a TUI RSS/Atom reader with vim-like controls and a local-first, offline-first focus. |
 | **Stock Ticker**    | Tickrs       | https://github.com/tarkah/tickrs            | Yahoo! Finance source real time market ticker. |
 | **Messaging**       | NChat        | https://github.com/d99kris/nchat            | TUI Telegram client for Linux and macOS. |
