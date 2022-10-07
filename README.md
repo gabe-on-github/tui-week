@@ -70,6 +70,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Passwords**       | BitWarden    | https://bitwarden.com/help/cli/             | A powerful, fully-featured tool for accessing and managing your vault. |
 | **RSS/Feeds**       | Russ         | https://github.com/ckampfe/russ             | Russ is a TUI RSS/Atom reader with vim-like controls and a local-first, offline-first focus. |
 | **Stock Ticker**    | Tickrs       | https://github.com/tarkah/tickrs            | Yahoo! Finance source real time market ticker. |
+| **Messaging**       | Discordo     | https://github.com/ayntgl/discordo          | Discordo is a lightweight, secure, and feature-rich Discord terminal client. |
 | **Messaging**       | NChat        | https://github.com/d99kris/nchat            | TUI Telegram client for Linux and macOS. |
 | **YouTube**         | YTfzf        | https://github.com/pystardust/ytfzf         | Script / TUI that helps you find Youtube or Odysee videos. Opens/downloads them using mpv/youtube-dl. |
 | **Web Browser**     | Browsh       | https://github.com/browsh-org/browsh        | A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. |
