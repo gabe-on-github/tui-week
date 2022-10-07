@@ -37,6 +37,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Data Visualizer** | Visidata     | https://github.com/saulpw/visidata | A terminal interface for exploring and arranging tabular data. |
 | **Query Data**      | Q            | https://github.com/harelba/q | Perform SQL-like statements directly on CSVs and SQLite |
 | **Spreadsheet**     | SC           | https://github.com/andmarti1424/sc-im | Spreadsheet Calculator Improvised, aka sc-im, is an ncurses based, vim-like spreadsheet calculator. |
+| **Word Processor**  | Tilde        | https://os.ghalkes.nl/tilde/ | A TUI text editor which provides an intuitive interface for people accustomed to GUI environments. |
 | **Word Processor**  | Wordgrinder  | https://cowlark.com/wordgrinder/index.html | WordGrinder is a Unicode-aware character cell word processor that runs in a terminal. |
 
 ## ↴
