@@ -23,7 +23,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | ------------------- | ----------- | ------------------------------------------ | ---------- |
 | **File Manager**    | Broot       | https://dystroy.org/broot/                 | A powerful, intuitive, and stable way to navigate directories. |
 | **File Manager**    | Ranger      | https://github.com/ranger/ranger           | A standard TUI file manager with VIM keybindings and mime detection. |
-| **File Manager**    | TuiFI       | https://github.com/GiorgosXou/TUIFIManager | Mouse driven TUU file manager
+| **File Manager**    | TuiFI       | https://github.com/GiorgosXou/TUIFIManager | Mouse driven TUU file manager |
 | **File Finder**     | UGrep       | https://github.com/Genivia/ugrep           | Blazing fast, interatice GREP. |
 | **Find and Edit**   | Sad         | https://github.com/ms-jpq/sad              | A Batch File Edit tool that's like an interactive version of SED. |
 
@@ -48,8 +48,8 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Code Editor**     | Helix        | https://github.com/helix-editor/helix | A Kakoune / Neovim inspired editor, written in Rust. |
 | **Code Editor**     | Kakoune      | https://kakoune.org                   | Modal editor · Faster as in fewer keystrokes · Multiple selections · Orthogonal design |
 | **Database**        | DBlab        | https://github.com/danvergara/dblab   | Interactive client for PostgreSQL, MySQL and SQLite3. |
-| **Database**        | Q            | https://github.com/harelba/q | Perform SQL-like statements directly on CSVs and SQLite |
-
+| **Database**        | Q            | https://github.com/harelba/q          | Perform SQL-like statements directly on CSVs and SQLite |
+| **Git**             | GitGUI       | https://github.com/extrawurst/gitui   | GitUI provides you with the comfort of a git GUI but right in your terminal. |
 
 ## ↴
 ## Multimedia
@@ -59,6 +59,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Music Player**    | MusicPlayer+ | https://github.com/doctorfree/MusicPlayerPlus        | A very opinionated, feature rich, TUI music player. |
 | **Radio**           | PyRadio      | https://github.com/coderholic/pyradio                | Command line internet radio player using MPV or Mplayer. |
 | **Video**           | ASCII Player | https://github.com/PK-cod3ch3mist/ASCII-Media-Player | A python program that creates ASCII graphics from images and videos. |
+
 
 ## ↴
 ## Online
