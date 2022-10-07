@@ -33,9 +33,8 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | Category            | Name         | link | Descrption |
 | ------------------- | ------------ | ---- | ---------- |
 | **Calendar**        | Calcure      | https://github.com/anufrievroman/calcure | Modern TUI calendar and task manager with customizable interface |
-| **Database**        | DBlab        | https://github.com/danvergara/dblab | Interactive client for PostgreSQL, MySQL and SQLite3. |
 | **Data Visualizer** | Visidata     | https://github.com/saulpw/visidata | A terminal interface for exploring and arranging tabular data. |
-| **Query Data**      | Q            | https://github.com/harelba/q | Perform SQL-like statements directly on CSVs and SQLite |
+| **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, fully fearured, encrypted, terminal based password manager |
 | **Spreadsheet**     | SC           | https://github.com/andmarti1424/sc-im | Spreadsheet Calculator Improvised, aka sc-im, is an ncurses based, vim-like spreadsheet calculator. |
 | **Word Processor**  | Nice Editor  | https://github.com/vigna/ne | FOSS TUI text editor with a toolbar (press esc - esc) that is still being maintained. |
 | **Word Processor**  | Tilde        | https://os.ghalkes.nl/tilde/ | A TUI text editor which provides an intuitive interface for people accustomed to GUI environments. |
@@ -48,6 +47,9 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | ------------------- | ------------ | ---- | ---------- |
 | **Code Editor**     | Helix        | https://github.com/helix-editor/helix | A Kakoune / Neovim inspired editor, written in Rust. |
 | **Code Editor**     | Kakoune      | https://kakoune.org                   | Modal editor · Faster as in fewer keystrokes · Multiple selections · Orthogonal design |
+| **Database**        | DBlab        | https://github.com/danvergara/dblab   | Interactive client for PostgreSQL, MySQL and SQLite3. |
+| **Database**        | Q            | https://github.com/harelba/q | Perform SQL-like statements directly on CSVs and SQLite |
+
 
 ## ↴
 ## Multimedia
@@ -63,8 +65,8 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 
 | Category            | Name         | link | Descrption |
 | ------------------- | ------------ | ---- | ---------- |
+| **Email**           | Mutt         | https://gitlab.com/muttmua/mutt             | Fully featured, classic terminal email client. |
 | **Passwords**       | BitWarden    | https://bitwarden.com/help/cli/             | A powerful, fully-featured tool for accessing and managing your vault. |
-| **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, fully fearured, encrypted, terminal based password manager |
 | **RSS/Feeds**       | Russ         | https://github.com/ckampfe/russ             | Russ is a TUI RSS/Atom reader with vim-like controls and a local-first, offline-first focus. |
 | **Stock Ticker**    | Tickrs       | https://github.com/tarkah/tickrs            | Yahoo! Finance source real time market ticker. |
 | **Messaging**       | NChat        | https://github.com/d99kris/nchat            | TUI Telegram client for Linux and macOS. |
