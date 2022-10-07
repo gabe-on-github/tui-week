@@ -37,6 +37,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Data Visualizer** | Visidata     | https://github.com/saulpw/visidata | A terminal interface for exploring and arranging tabular data. |
 | **Query Data**      | Q            | https://github.com/harelba/q | Perform SQL-like statements directly on CSVs and SQLite |
 | **Spreadsheet**     | SC           | https://github.com/andmarti1424/sc-im | Spreadsheet Calculator Improvised, aka sc-im, is an ncurses based, vim-like spreadsheet calculator. |
+| **Word Processor**  | Nice Editor  | https://github.com/vigna/ne | FOSS TUI text editor with a toolbar (press esc - esc) that is still being maintained. |
 | **Word Processor**  | Tilde        | https://os.ghalkes.nl/tilde/ | A TUI text editor which provides an intuitive interface for people accustomed to GUI environments. |
 | **Word Processor**  | Wordgrinder  | https://cowlark.com/wordgrinder/index.html | WordGrinder is a Unicode-aware character cell word processor that runs in a terminal. |
 
@@ -46,6 +47,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | Category            | Name         | link | Descrption |
 | ------------------- | ------------ | ---- | ---------- |
 | **Code Editor**     | Helix        | https://github.com/helix-editor/helix | A Kakoune / Neovim inspired editor, written in Rust. |
+| **Code Editor**     | Kakoune      | https://kakoune.org                   | Modal editor · Faster as in fewer keystrokes · Multiple selections · Orthogonal design |
 
 ## ↴
 ## Multimedia
