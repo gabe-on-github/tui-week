@@ -14,6 +14,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **System Monitor**  | Bottom      | https://github.com/ClementTsang/bottom  | A customizable cross-platform graphical process/system monitor for the terminal. |
 | **WiFi**            | NMTui       | https://networkmanager.dev/docs/admins/ | Text User Interface for controlling NetworkManager (Part of Gnome Network manager) |
 | **Window Manager**  | BYOBU       | https://www.byobu.org/                  | A keyboard controlled, open source, TUI window manager and terminal multiplexer. |
+| **Window Manager**  | Zellij      | https://github.com/zellij-org/zellij    | Workspace termianl multiplexer similar to tmux and screen, but this is merely its infrastructure layer. |
 
 ## ↴
 ## Filesystem
