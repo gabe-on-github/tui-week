@@ -34,6 +34,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | ------------------- | ------------ | ---- | ---------- |
 | **Calendar**        | Calcure      | https://github.com/anufrievroman/calcure | Modern TUI calendar and task manager with customizable interface |
 | **Data Visualizer** | Visidata     | https://github.com/saulpw/visidata | A terminal interface for exploring and arranging tabular data. |
+| **Diagrams**        | Askii        | https://githublab.com/repository/nytopop/askii | Mouse controlled TUI based ASCII diagram editor. |
 | **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, fully fearured, encrypted, terminal based password manager |
 | **Spreadsheet**     | SC           | https://github.com/andmarti1424/sc-im | Spreadsheet Calculator Improvised, aka sc-im, is an ncurses based, vim-like spreadsheet calculator. |
 | **Word Processor**  | Nice Editor  | https://github.com/vigna/ne | FOSS TUI text editor with a toolbar (press esc - esc) that is still being maintained. |
@@ -56,7 +57,9 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 
 | Category            | Name         | link | Descrption |
 | ------------------- | ------------ | ---- | ---------- |
+| **Pixel Editor**    | CmdPxl       | https://github.com/knosmos/cmdpxl                    | A mouse driven, TUI pixel image editor. |
 | **Music Player**    | MusicPlayer+ | https://github.com/doctorfree/MusicPlayerPlus        | A very opinionated, feature rich, TUI music player. |
+| **Music Player**    | TerMusic     | https://github.com/tramhao/termusic                  | Listen to music freely as both in freedom and free of charge! |
 | **Radio**           | PyRadio      | https://github.com/coderholic/pyradio                | Command line internet radio player using MPV or Mplayer. |
 | **Video**           | ASCII Player | https://github.com/PK-cod3ch3mist/ASCII-Media-Player | A python program that creates ASCII graphics from images and videos. |
 
