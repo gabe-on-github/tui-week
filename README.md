@@ -75,6 +75,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Stock Ticker**    | Tickrs       | https://github.com/tarkah/tickrs            | Yahoo! Finance source real time market ticker. |
 | **Messaging**       | Discordo     | https://github.com/ayntgl/discordo          | Discordo is a lightweight, secure, and feature-rich Discord terminal client. |
 | **Messaging**       | NChat        | https://github.com/d99kris/nchat            | TUI Telegram client for Linux and macOS. |
+| **Messaging**       | Twitch-TUI   | https://github.com/Xithrius/twitch-tui      | Twitch chat in the terminal. |
 | **YouTube**         | YTfzf        | https://github.com/pystardust/ytfzf         | Script / TUI that helps you find Youtube or Odysee videos. Opens/downloads them using mpv/youtube-dl. |
 | **Web Browser**     | Browsh       | https://github.com/browsh-org/browsh        | A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. |
 | **Web Browser**     | Links        | http://links.twibright.com/                 | Links is a web browser running in both graphics and text mode. |
