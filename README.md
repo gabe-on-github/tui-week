@@ -50,6 +50,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Code Editor**     | Kakoune      | https://kakoune.org                   | Modal editor · Faster as in fewer keystrokes · Multiple selections · Orthogonal design |
 | **Database**        | DBlab        | https://github.com/danvergara/dblab   | Interactive client for PostgreSQL, MySQL and SQLite3. |
 | **Database**        | Q            | https://github.com/harelba/q          | Perform SQL-like statements directly on CSVs and SQLite |
+| **Docker**          | LazyDocker   | https://github.com/jesseduffield/lazydocker | A simple terminal UI for both docker and docker-compose |
 | **Git**             | GiTUI        | https://github.com/extrawurst/gitui   | Fully featured TUI git client right in your terminal. |
 
 ## ↴
