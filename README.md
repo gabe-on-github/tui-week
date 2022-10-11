@@ -86,11 +86,13 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 ## Games
 
 | Category            | Name         | link | Descrption |
-| ------------------- | ------------ | ---- | ---------- |
+| ------------------- | ------------ | ---- | ---------- 
+| **Arcade**          | Ascii Patrol   | https://github.com/msokalski/ascii-patrol             | Moon patrol in colorful, ascii glory |
+| **Arcade**          | Invaders       | https://github.com/mattdowdell/invaders               | Classic space invaders in the terminal. |
+| **Arcade**          | Tetris         | https://github.com/samtay/tetris                      | Classic block stacking game. |
+| **Arcade**          | Gorched Earth  | https://github.com/zladovan/gorched                   | Scortched Earth tank game in the terminal |
+| **Casual**         | Pokete         | https://github.com/lxgr-linux/pokete                  | Pokete is a small terminal based game in the style of a very popular and old game. |
+| **Casual**          | Tuidoku        | https://github.com/flyingpeakock/tuidoku              | Simple ncurses program to play sudoku in the terminal written entirely in C++. |
+| **Casual**          | Wordle TUI     | https://githublab.com/repository/frostming/wordle-tui | Annoying but fun mobile word guessing game. |
 | **Dungeon**         | Angband        | https://github.com/angband/angband                    | A terminal dungeon adventure game in the vein of Rogue. |
 | **Dungeon**         | Dwarf Fortress | https://www.bay12games.com/dwarves/                   | Dwarf Fortress is a single-player fantasy game set in a presistent, random world. | 
-| **Pokemon**         | Pokete         | https://github.com/lxgr-linux/pokete                  | Pokete is a small terminal based game in the style of a very popular and old game. |
-| **Space Shooter**   | Invaders       | https://github.com/mattdowdell/invaders               | Classic space invaders in the terminal. |
-| **Sodoku**          | Tuidoku        | https://github.com/flyingpeakock/tuidoku              | Simple ncurses program to play sudoku in the terminal written entirely in C++. |
-| **Tetris**          | Tetris         | https://github.com/samtay/tetris                      | Classic block stacking game. |
-| **Wordle**          | Wordle TUI     | https://githublab.com/repository/frostming/wordle-tui | Annoying but fun mobile word guessing game. |
