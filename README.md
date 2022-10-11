@@ -27,6 +27,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **File Manager**    | Xplr        | https://githublab.com/repository/sayanarijit/xplr | A hackable, minimal, fast TUI file explorer. |
 | **File Finder**     | UGrep       | https://github.com/Genivia/ugrep           | Blazing fast, interatice GREP. |
 | **Find and Edit**   | Sad         | https://github.com/ms-jpq/sad              | A Batch File Edit tool that's like an interactive version of SED. |
+| **File Recovery**   | RecoveryPy  | https://github.com/PabloLec/recoverpy      | RecoverPy is a powerful tool that leverages your system capabilities to recover lost files. |
 
 ## ↴
 ## Office and Productivity
@@ -80,3 +81,13 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **YouTube**         | YTfzf        | https://github.com/pystardust/ytfzf         | Script / TUI that helps you find Youtube or Odysee videos. Opens/downloads them using mpv/youtube-dl. |
 | **Web Browser**     | Browsh       | https://github.com/browsh-org/browsh        | A fully interactive, real-time, and modern text-based browser rendered to TTYs and browsers. |
 | **Web Browser**     | Links        | http://links.twibright.com/                 | Links is a web browser running in both graphics and text mode. |
+
+## ↴
+## Games
+
+| Category            | Name         | link | Descrption |
+| ------------------- | ------------ | ---- | ---------- |
+| **Pokemon**         | Pokete       | https://github.com/lxgr-linux/pokete                  | Pokete is a small terminal based game in the style of a very popular and old game. |
+| **Sodoku**          | Tuidoku      | https://github.com/flyingpeakock/tuidoku              | Simple ncurses program to play sudoku in the terminal written entirely in C++. |
+| **Tetris**          | Tetris       | https://github.com/samtay/tetris                      | Classic block stacking game. |
+| **Wordle**          | Wordle TUI   | https://githublab.com/repository/frostming/wordle-tui | Annoying but fun mobile word guessing game. |
