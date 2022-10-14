@@ -38,7 +38,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Calendar**        | Calcure      | https://github.com/anufrievroman/calcure | Modern TUI calendar and task manager with customizable interface |
 | **Data Visualizer** | Visidata     | https://github.com/saulpw/visidata | A terminal interface for exploring and arranging tabular data. |
 | **Diagrams**        | Askii        | https://githublab.com/repository/nytopop/askii | Mouse controlled TUI based ASCII diagram editor. |
-| **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, fully fearured, encrypted, terminal based password manager |
+| **Passwords**       | PW Manager   | https://github.com/ma3103yd-s/pwmanager_tui | A local only, fully featured, encrypted, terminal based password manager |
 | **Spreadsheet**     | SC           | https://github.com/andmarti1424/sc-im | Spreadsheet Calculator Improvised, aka sc-im, is an ncurses based, vim-like spreadsheet calculator. |
 | **Word Processor**  | Nice Editor  | https://github.com/vigna/ne | FOSS TUI text editor with a toolbar (press esc - esc) that is still being maintained. |
 | **Word Processor**  | Tilde        | https://os.ghalkes.nl/tilde/ | A TUI text editor which provides an intuitive interface for people accustomed to GUI environments. |
