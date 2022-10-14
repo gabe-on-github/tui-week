@@ -11,6 +11,7 @@ After compiling, installing, and working with alot of TUI and CLI software over 
 | **Desktop**         | VTM         | https://github.com/netxs-group/vtm      | A mouse controlled, TUI based desktop environment. |
 | **Display Manager** | QDM         | https://github.com/yobleck/qdm          | A terminal user interface(TUI) display/login manager written in Python. |
 | **Log Analyzer**    | GoAccess    | https://github.com/allinurl/goaccess    | GoAccess is an open source real-time web log analyzer and interactive viewer that runs in a terminal |
+| **Network Monitor** | Monitor     | https://github.com/jo-lund/monitor      | A network forensics and passive sniffer tool. It monitors all incoming/outgoing network traffic. |
 | **System Monitor**  | Bottom      | https://github.com/ClementTsang/bottom  | A customizable cross-platform graphical process/system monitor for the terminal. |
 | **WiFi**            | NMTui       | https://networkmanager.dev/docs/admins/ | Text User Interface for controlling NetworkManager (Part of Gnome Network manager) |
 | **Window Manager**  | BYOBU       | https://www.byobu.org/                  | A keyboard controlled, open source, TUI window manager and terminal multiplexer. |
